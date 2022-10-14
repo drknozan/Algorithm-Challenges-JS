@@ -10,3 +10,5 @@
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)             | [BirthdayCakeCandles.js](./ChallengeSolutions/BirthdayCakeCandles.js)                |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)                       | [SimpleArraySum.js](./ChallengeSolutions/SimpleArraySum.js)                          |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)               | [CompareTheTriplets.js](./ChallengeSolutions/CompareTheTriplets.js)                  |
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                                | [GradingStudents.js](./ChallengeSolutions/GradingStudents.js)                        |
+| [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)    | [BreakingTheRecords.js](./ChallengeSolutions/BreakingTheRecords.js)                  |
