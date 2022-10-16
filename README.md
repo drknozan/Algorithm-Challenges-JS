@@ -13,3 +13,4 @@
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                                | [GradingStudents.js](./ChallengeSolutions/GradingStudents.js)                        |
 | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)    | [BreakingTheRecords.js](./ChallengeSolutions/BreakingTheRecords.js)                  |
 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                               | [BillDivision.js](./ChallengeSolutions/BillDivision.js)                              |
+| [Cats And Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                         | [CatsAndMouse.js](./ChallengeSolutions/CatsAndMouse.js)                              |
