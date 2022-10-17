@@ -14,4 +14,5 @@
 | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)    | [BreakingTheRecords.js](./ChallengeSolutions/BreakingTheRecords.js)                  |
 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                               | [BillDivision.js](./ChallengeSolutions/BillDivision.js)                              |
 | [Cats And Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                         | [CatsAndMouse.js](./ChallengeSolutions/CatsAndMouse.js)                              |
-| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                         | [TheHurdleRace.js](./ChallengeSolutions/TheHurdleRace.js)                            | 
+| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                         | [TheHurdleRace.js](./ChallengeSolutions/TheHurdleRace.js)                            |
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                         | [AngryProfessor.js](./ChallengeSolutions/AngryProfessor.js)                          |
