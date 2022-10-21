@@ -17,3 +17,4 @@
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                         | [TheHurdleRace.js](./ChallengeSolutions/TheHurdleRace.js)                            |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                         | [AngryProfessor.js](./ChallengeSolutions/AngryProfessor.js)                          |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                   | [ViralAdvertising.js](./ChallengeSolutions/ViralAdvertising.js)                      |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                               | [UtopianTree.js](./ChallengeSolutions/UtopianTree.js)                                |
