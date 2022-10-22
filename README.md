@@ -18,3 +18,4 @@
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                         | [AngryProfessor.js](./ChallengeSolutions/AngryProfessor.js)                          |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                   | [ViralAdvertising.js](./ChallengeSolutions/ViralAdvertising.js)                      |
 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                               | [UtopianTree.js](./ChallengeSolutions/UtopianTree.js)                                |
+| [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true)                                     | [CamelCase.js](./ChallengeSolutions/CamelCase.js)                                    |
