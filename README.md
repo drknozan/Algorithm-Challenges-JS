@@ -24,3 +24,4 @@
 | [Apple And Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)                       | [AppleAndOrange.js](./ChallengeSolutions/AppleAndOrange.js)                          |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                       | [CountingValleys.js](./ChallengeSolutions/CountingValleys.js)                        |
 | [Beautiful Days At The Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)                 | [BeautifulDaysAtTheMovies.js](./ChallengeSolutions/BeautifulDaysAtTheMovies.js)      |
+| [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true)                                       | [Pangrams](./ChallengeSolutions/Pangrams.js)                                         |
