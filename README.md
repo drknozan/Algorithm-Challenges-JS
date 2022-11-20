@@ -28,3 +28,4 @@
 | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem?isFullScreen=true)                          | [MarcsCakewalk.js](./ChallengeSolutions/MarcsCakewalk.js)                            |
 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                 | [FindDigits.js](./ChallengeSolutions/FindDigits.js)                                  |
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                 | [DivisibleSumPairs.js](./ChallengeSolutions/DivisibleSumPairs.js)                    |
+| [String Construction](https://www.hackerrank.com/challenges/string-construction/problem?isFullScreen=true)                 | [StringConstruction.js](./ChallengeSolutions/StringConstruction.js)                  |
